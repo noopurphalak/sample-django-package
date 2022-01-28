@@ -1,6 +1,6 @@
 ## Quick start
 
-1. Run `pip install git+https://github.com/noopurphalak/sample-django-package#egg=sample-django-package` in your virtualenv for your Django Project.
+1. Run `pip install -e git+https://github.com/noopurphalak/sample-django-package#egg=sample-django-package` in your virtualenv for your Django Project.
 
 2. Add "sample" to your INSTALLED_APPS setting like this::
 
