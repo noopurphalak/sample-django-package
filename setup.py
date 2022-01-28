@@ -12,7 +12,6 @@ setuptools.setup(
     description="A Django app to spit out sample JSON response",
     long_description=read_file("README.md"),
     long_description_content_type="text/markdown",
-    url="https://www.example.com",
     author="Noopur Phalak",
     author_email="noopurphalak007@gmail.com",
     license="MIT License",
