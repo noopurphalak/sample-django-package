@@ -15,4 +15,4 @@
 
 4. Run `python manage.py migrate` to create the sample models.
 
-5. Visit http://127.0.0.1:8000/ to get the sample JSON response.
+5. Visit http://127.0.0.1:8000/ to get the sample JSON response `{"greeting": "Hello World"}`.
